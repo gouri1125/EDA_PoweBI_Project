@@ -16,8 +16,6 @@ This project performs Exploratory Data Analysis on multiple datasets including:
 - Wine Quality
 - Car Evaluation
 
-## 🚀 Project Structure
-
 ## 🔥 Features
 - Automated EDA functions
 - Correlation analysis

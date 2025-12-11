@@ -3,18 +3,19 @@
 # 📊 Advanced EDA + Power BI Project
 
 This project performs Exploratory Data Analysis on multiple datasets including:
-- IPL Player Performance
-- Bank Marketing Dataset
-- Food Delivery Data (Zomato/Swiggy)
-- Global GDP Data
-- COVID Vaccination Data (India)
-- Avengers
-- Water Quality
-- US Presidents
-- 911 Emergency Calls
-- Mushroom (Edible/Poison)
-- Wine Quality
-- Car Evaluation
+1-IPL-Player Performance Data Set
+2-Bank Marketing Data Set(Any)
+3-Food Delivery Service Data(Zomato,Swiggy)
+4-Countries GDP Data
+5-Indian States Performance on Covid Vaccine Dose 1 and Dose 2
+6-Avengers Data
+7-Water Quality Data
+8-Analyse US Presidents data
+9-Indian States Data
+10-Emergency 911 Calls Data
+11-Mushroom edible and Poisonous Data
+12-Wine Quality Data
+13-Car Evaluation Data
 
 ## 🔥 Features
 - Automated EDA functions

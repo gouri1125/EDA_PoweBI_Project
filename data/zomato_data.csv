@@ -1,0 +1,41 @@
+OrderID,CustomerName,RestaurantName,FoodItem,Quantity,Price,OrderTime,DeliveryTime,DeliveryLocation,PaymentMethod,OrderStatus
+1001,Aarav Sharma,Spice Hub,Paneer Butter Masala,2,450,2025-12-01 12:15,2025-12-01 12:45,Trivandrum,Credit Card,Delivered
+1002,Meera Nair,Tandoori Tales,Chicken Biryani,1,280,2025-12-01 13:05,2025-12-01 13:40,Kochi,UPI,Delivered
+1003,Rahul Menon,Pizza Palace,Margherita Pizza,1,199,2025-12-01 14:20,2025-12-01 14:55,Trivandrum,Cash,Delivered
+1004,Ananya Pillai,Sushi World,California Roll,3,600,2025-12-01 15:10,2025-12-01 15:50,Bangalore,Credit Card,Delivered
+1005,Vikram Krishnan,Burger Barn,Cheese Burger,2,320,2025-12-01 16:00,2025-12-01 16:35,Chennai,UPI,Delivered
+1006,Divya Rajan,Spice Hub,Butter Naan,4,160,2025-12-02 11:45,2025-12-02 12:20,Trivandrum,Cash,Delivered
+1007,Arjun Varma,Tandoori Tales,Mutton Curry,1,350,2025-12-02 12:30,2025-12-02 13:05,Kochi,Credit Card,Delivered
+1008,Neha Suresh,Pizza Palace,Farmhouse Pizza,2,499,2025-12-02 13:15,2025-12-02 13:50,Trivandrum,UPI,Delivered
+1009,Siddharth Iyer,Sushi World,Salmon Nigiri,2,700,2025-12-02 14:00,2025-12-02 14:40,Bangalore,Credit Card,Delivered
+1010,Pooja Das,Burger Barn,Veggie Burger,1,150,2025-12-02 15:20,2025-12-02 15:55,Chennai,Cash,Delivered
+1011,Kiran Mohan,Spice Hub,Chicken Tikka,2,400,2025-12-03 12:10,2025-12-03 12:45,Trivandrum,UPI,Delivered
+1012,Leela George,Tandoori Tales,Fish Fry,1,280,2025-12-03 13:00,2025-12-03 13:35,Kochi,Credit Card,Delivered
+1013,Rajeev Kumar,Pizza Palace,Peppy Paneer Pizza,1,250,2025-12-03 14:30,2025-12-03 15:05,Trivandrum,Cash,Delivered
+1014,Anjali Menon,Sushi World,Tempura Roll,2,500,2025-12-03 15:15,2025-12-03 15:55,Bangalore,UPI,Delivered
+1015,Suraj Nair,Burger Barn,Chicken Burger,3,450,2025-12-03 16:05,2025-12-03 16:40,Chennai,Credit Card,Delivered
+1016,Deepa Krishnan,Spice Hub,Masala Dosa,2,180,2025-12-04 08:30,2025-12-04 09:00,Trivandrum,Cash,Delivered
+1017,Ajay Pillai,Tandoori Tales,Butter Chicken,1,320,2025-12-04 12:20,2025-12-04 12:55,Kochi,UPI,Delivered
+1018,Shreya Mohan,Pizza Palace,Cheese Burst Pizza,1,299,2025-12-04 13:40,2025-12-04 14:15,Trivandrum,Credit Card,Delivered
+1019,Manoj Das,Sushi World,Tuna Roll,2,550,2025-12-04 14:25,2025-12-04 15:00,Bangalore,Cash,Delivered
+1020,Reshma Iyer,Burger Barn,Double Patty Burger,1,220,2025-12-04 15:10,2025-12-04 15:45,Chennai,UPI,Delivered
+1021,Arvind Raj,Spice Hub,Idli Sambar,3,150,2025-12-05 08:15,2025-12-05 08:45,Trivandrum,Cash,Delivered
+1022,Megha Nair,Tandoori Tales,Paneer Tikka,2,380,2025-12-05 12:05,2025-12-05 12:40,Kochi,Credit Card,Delivered
+1023,Rohan Menon,Pizza Palace,Deluxe Veggie Pizza,1,270,2025-12-05 13:20,2025-12-05 13:55,Trivandrum,UPI,Delivered
+1024,Anita George,Sushi World,Dragon Roll,2,620,2025-12-05 14:10,2025-12-05 14:50,Bangalore,Credit Card,Delivered
+1025,Vivek Krishnan,Burger Barn,BBQ Burger,2,360,2025-12-05 15:00,2025-12-05 15:35,Chennai,Cash,Delivered
+1026,Devika Rajan,Spice Hub,Veg Pulao,1,200,2025-12-06 12:30,2025-12-06 13:00,Trivandrum,UPI,Delivered
+1027,Harish Varma,Tandoori Tales,Chicken Kebab,2,400,2025-12-06 13:15,2025-12-06 13:50,Kochi,Credit Card,Delivered
+1028,Nisha Suresh,Pizza Palace,Italian Pizza,1,280,2025-12-06 14:00,2025-12-06 14:35,Trivandrum,Cash,Delivered
+1029,Sanjay Iyer,Sushi World,Eel Roll,2,650,2025-12-06 14:45,2025-12-06 15:25,Bangalore,UPI,Delivered
+1030,Parvathy Das,Burger Barn,Spicy Burger,1,180,2025-12-06 15:30,2025-12-06 16:05,Chennai,Credit Card,Delivered
+1031,Karthik Mohan,Spice Hub,Veg Thali,1,250,2025-12-07 12:10,2025-12-07 12:45,Trivandrum,Cash,Delivered
+1032,Amrita George,Tandoori Tales,Chicken Curry,1,320,2025-12-07 13:00,2025-12-07 13:35,Kochi,UPI,Delivered
+1033,Pranav Kumar,Pizza Palace,Cheese Pizza,2,400,2025-12-07 14:20,2025-12-07 14:55,Trivandrum,Credit Card,Delivered
+1034,Anusha Menon,Sushi World,Avocado Roll,3,720,2025-12-07 15:05,2025-12-07 15:45,Bangalore,Cash,Delivered
+1035,Suresh Nair,Burger Barn,Classic Burger,2,300,2025-12-07 16:00,2025-12-07 16:35,Chennai,UPI,Delivered
+1036,Rekha Krishnan,Spice Hub,Veg Fried Rice,1,180,2025-12-08 12:25,2025-12-08 12:55,Trivandrum,Cash,Delivered
+1037,Arun Pillai,Tandoori Tales,Chicken Tandoori,1,350,2025-12-08 13:15,2025-12-08 13:50,Kochi,Credit Card,Delivered
+1038,Smita Mohan,Pizza Palace,Onion Pizza,1,220,2025-12-08 14:00,2025-12-08 14:35,Trivandrum,UPI,Delivered
+1039,Varsha Das,Sushi World,Spicy Tuna Roll,2,580,2025-12-08 14:45,2025-12-08 15:25,Bangalore,Credit Card,Delivered
+1040,Krishna Iyer,Burger Barn,Grilled Burger,1,200,2025-12-08 15:30,2025-12-08 16:05,Chennai,Cash,Delivered
